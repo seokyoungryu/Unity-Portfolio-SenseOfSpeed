@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5198148923372018723
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5198148923372018732}
+  - component: {fileID: 5198148923372018733}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5198148923372018732
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5198148923372018723}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -17.972515, y: -25.394894, z: 41.160572}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5198148923372018733
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5198148923372018723}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cc19e03923ad904ca4923721e3117e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterIsOwn: 01000000
+  currentCharacterName: 
+  decreaseHpPerSecondValue: 10
+  healValue: 60
+  highScore: 0
+  score: 0
+  getMoney: 0
+  ownMoney: 110000
+  noHpItemCount: 0
+  MaxHp: 0
+  currentHp: 0
+  GoldPercent: 0
+  healPercent: 0
+  scorePercent: 0
+  isHitCheckBtn: 0
+  isPassBox: 0
+  isHit: 0
+  isHpDecreaseStop: 0
+  isHardRound: 0
+  isTreasureBoxZone: 0
+  isTreasureLimitLine: 0
+  isTreasureCamRotZone: 0
+  isGameStart: 0
+  isGameOver: 0

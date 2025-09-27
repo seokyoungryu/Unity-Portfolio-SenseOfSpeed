@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &607613291573601235
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 607613291573601233}
+  - component: {fileID: 607613291573601234}
+  m_Layer: 0
+  m_Name: Object_Pooling
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &607613291573601233
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 607613291573601235}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -13.011337, y: -19.669004, z: 22.51106}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &607613291573601234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 607613291573601235}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f23b2c0290714e4c8531e66628afb51, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  obpDatas:
+  - objName: Ground1
+    prefab: {fileID: 6811611962163243403, guid: 86666b695dffaae40ac2a26ed2fca642, type: 3}
+    parentPos: {fileID: 0}
+    count: 5
+  - objName: Ground2
+    prefab: {fileID: 5112196799627548535, guid: ec4690117c423eb4f9cead7c8fd3114f, type: 3}
+    parentPos: {fileID: 0}
+    count: 5
+  - objName: Ground3
+    prefab: {fileID: 4614711852464093437, guid: 38504b75d21afbd4183eaf1f61aa3779, type: 3}
+    parentPos: {fileID: 0}
+    count: 5
+  - objName: NormalObs1
+    prefab: {fileID: 1819290177180824039, guid: 99922e5f53b9d9f4399dbb3a81add617, type: 3}
+    parentPos: {fileID: 0}
+    count: 5
+  - objName: NormalObs2
+    prefab: {fileID: 6528523052506983373, guid: 489a2465752f9864d976226baa7f7589, type: 3}
+    parentPos: {fileID: 0}
+    count: 5
+  - objName: NormalObs3
+    prefab: {fileID: 1516407447662460210, guid: ad99ad465a789cf40a5c61e301dbeeaa, type: 3}
+    parentPos: {fileID: 0}
+    count: 5
+  - objName: Treasure
+    prefab: {fileID: 5761377276948540409, guid: c4c4c5696fc6de848a06353fc4914ce6, type: 3}
+    parentPos: {fileID: 0}
+    count: 5
