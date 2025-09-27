@@ -1,7 +1,7 @@
 # 🎮 Unity3D Portfolio Casual Game - Sense Of Speed
 
 ## 📹 동영상 링크
-[![Unity Portfolio - Sense Of Speed](https://img.youtube.com/vi/efGVDcOw70c/0.jpg?v=1)](https://www.youtube.com/watch?v=efGVDcOw70c)
+[![Unity Portfolio - Sense Of Speed](https://img.youtube.com/vi/efGVDcOw70c/maxresdefault.jpg)](https://www.youtube.com/watch?v=efGVDcOw70c)
 
 [🔗 유튜브 영상 바로 보기](https://www.youtube.com/watch?v=sTdEx9n8rMI)
 
