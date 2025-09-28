@@ -17,9 +17,9 @@
 ---
 
 
-<img width="2022" height="1125" alt="화면 캡처 2025-09-28 133238" src="https://github.com/user-attachments/assets/1ad867f6-c23b-4b9d-b826-bc8a5e77b068" />
-<img width="2021" height="1140" alt="화면 캡처 2025-09-28 133227" src="https://github.com/user-attachments/assets/bf794572-6546-4f54-a775-214d57672f33" />
-<img width="2016" height="1129" alt="화면 캡처 2025-09-28 133214" src="https://github.com/user-attachments/assets/d13b9c4e-a05f-4a6b-b1f8-1cf3540abdd2" />
-<img width="2037" height="1142" alt="화면 캡처 2025-09-28 133158" src="https://github.com/user-attachments/assets/d24d6fc3-301f-42b1-8311-14b3d4e0d726" />
-<img width="2022" height="1134" alt="화면 캡처 2025-09-28 133248" src="https://github.com/user-attachments/assets/1858b509-061c-4ee4-94d1-c7e540d44286" />
+<img width="2018" height="1142" alt="화면 캡처 2025-09-28 134016" src="https://github.com/user-attachments/assets/e33a9a29-6afa-400c-badd-cd803ea586b3" />
+<img width="2027" height="1129" alt="화면 캡처 2025-09-28 134028" src="https://github.com/user-attachments/assets/5ecdd437-898b-4c1a-92db-a8e68e430c62" />
+<img width="2021" height="1139" alt="화면 캡처 2025-09-28 134048" src="https://github.com/user-attachments/assets/a4071e79-62ff-4b4c-890f-f2e34a5d4910" />
+<img width="2025" height="1123" alt="화면 캡처 2025-09-28 134037" src="https://github.com/user-attachments/assets/28fcf026-58c0-4647-8ff6-1cb85b0e7ebf" />
+<img width="2030" height="1132" alt="화면 캡처 2025-09-28 134059" src="https://github.com/user-attachments/assets/ffd44a9f-aa20-45a5-82bc-45b15dc00d96" />
 <img width="1623" height="996" alt="화면 캡처 2025-09-28 133808" src="https://github.com/user-attachments/assets/020d4cda-18b0-473a-8cda-8b4fae4c63e4" />
